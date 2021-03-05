@@ -22,6 +22,8 @@ body{
 
 header{
   background-image: url('../imgs/Header-Background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
   height: 656px;
   width: 100%;
 }
